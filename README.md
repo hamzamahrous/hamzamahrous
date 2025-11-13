@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I’m a Front-End Developer specializing in Angular, currently expanding my skills in .NET to become a full-stack developer. I enjoy building dynamic, responsive web applications and exploring how front-end and back-end technologies integrate seamlessly.
 
 
