@@ -13,7 +13,7 @@ I enjoy building clean, responsive web applications and exploring how front-end 
 ---
 
 ## 🌐 Connect With Me
-<p align="center">
+<p>
   <a href="https://linkedin.com/in/hamza-mahrous" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
@@ -34,12 +34,3 @@ I enjoy building clean, responsive web applications and exploring how front-end 
   <img src="https://nirzak-streak-stats.vercel.app/?user=hamzamahrous&theme=transparent&hide_border=true" height="165" />
 </p>
 
----
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=hamzamahrous&icon=0&color=0" />
-  </a>
-</p>
-
-<!-- Created with ❤️ using GPRM and customized manually -->
