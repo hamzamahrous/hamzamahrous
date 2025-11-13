@@ -4,13 +4,13 @@
   <b>Front-End Developer | Angular Enthusiast | Aspiring .NET Full-Stack Developer</b>
 </p>
 
----
+
 
 ## 🧩 About Me
 I’m a Front-End Developer specializing in **Angular**, currently expanding my skills in **.NET** to become a full-stack developer.  
 I enjoy building clean, responsive web applications and exploring how front-end and back-end technologies connect seamlessly.
 
----
+
 
 ## 🌐 Connect With Me
 <p>
@@ -19,14 +19,14 @@ I enjoy building clean, responsive web applications and exploring how front-end 
   </a>
 </p>
 
----
+
 
 ## 💻 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=angular,typescript,html,css,javascript,cs,dotnet,cpp,python,rxjs,sqlserver,vercel" />
+  <img src="https://skillicons.dev/icons?i=angular,typescript,html,css,javascript,cs,dotnet,cpp,python,rxjs,vercel" />
 </p>
 
----
+
 
 ## 📊 GitHub Stats
 <p align="center">
