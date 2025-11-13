@@ -30,7 +30,8 @@ I enjoy building clean, responsive web applications and exploring how front-end 
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hamzamahrous&theme=transparent&hide_border=true&show_icons=true" height="165" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=hamzamahrous&theme=transparent&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hamzamahrous&show_icons=true&theme=transparent&hide_border=true&hide_title=true&count_private=true" height="160" />
+  <img src="https://streak-stats.demolab.com?user=hamzamahrous&theme=transparent&hide_border=true" height="160" />
 </p>
+
 
