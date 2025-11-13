@@ -3,14 +3,16 @@ I’m a Front-End Developer specializing in Angular, currently expanding my skil
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hamza-mahrous) 
+<p align="center">
+  <a href="https://linkedin.com/in/hamza-mahrous" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
 
 # 💻 Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=angular,typescript,html,css,javascript,cs,dotnet,cpp,python,rxjs,mysql,vercel" />
+  <img src="https://skillicons.dev/icons?i=angular,typescript,html,css,javascript,cs,cpp,python,sqlserver,vercel" />
 </div>
-
-
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=hamzamahrous&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)<br/>
