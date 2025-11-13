@@ -23,7 +23,7 @@ I enjoy building clean, responsive web applications and exploring how front-end 
 
 ## 💻 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=angular,typescript,html,css,javascript,cs,dotnet,cpp,python,rxjs,vercel" />
+  <img src="https://skillicons.dev/icons?i=angular,typescript,html,css,javascript,cs,cpp,python,vercel" />
 </p>
 
 
