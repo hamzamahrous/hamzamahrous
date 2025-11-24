@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Hamza Mahrous</h1>
 
 <p align="center">
-  <b>Front-End Developer | Angular Enthusiast | Aspiring .NET Full-Stack Developer</b>
+  <b>Front-End Developer | Angular Enthusiast | Aspiring .NET Full-Stack Developer </b>
 </p>
 
 
