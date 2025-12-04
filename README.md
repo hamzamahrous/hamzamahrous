@@ -26,13 +26,3 @@ I enjoy building clean, responsive web applications and exploring how front-end 
   <img src="https://skillicons.dev/icons?i=angular,typescript,html,css,javascript,cs,cpp,python,vercel" />
 </p>
 
-
-
-## 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats-git-masterorg.vercel.app/api/top-langs/?username=hamzamahrous&layout=compact&theme=transparent&hide_border=true&exclude_repo=library-management-system&hide=html,css" />
-
-<img src="https://github-readme-stats-git-masterorg.vercel.app/api?username=hamzamahrous&show_icons=true&theme=transparent&hide_border=true&count_private=true" />
-
-</p>
-
